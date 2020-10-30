@@ -1,0 +1,82 @@
+[
+  {
+    "tanggal": "1 Januari 2022",
+    "date": "2022-01-01T00:00:00.000+07:00",
+    "desc": "Tahun Baru Masehi"
+  },
+  {
+    "tanggal": "1 Februari 2022",
+    "date": "2022-02-01T00:00:00.000+07:00",
+    "desc": "Tahun Baru Imlek"
+  },
+  {
+    "tanggal": "1 Maret 2022",
+    "date": "2022-03-01T00:00:00.000+07:00",
+    "desc": "Isra Mi'raj"
+  },
+  {
+    "tanggal": "3 Maret 2022",
+    "date": "2022-03-03T00:00:00.000+07:00",
+    "desc": "Hari Suci Nyepi"
+  },
+  {
+    "tanggal": "15 April 2022",
+    "date": "2022-04-15T00:00:00.000+07:00",
+    "desc": "Jumat Agung"
+  },
+  {
+    "tanggal": "1 Mei 2022",
+    "date": "2022-05-01T00:00:00.000+07:00",
+    "desc": "Hari Buruh"
+  },
+  {
+    "tanggal": "2 Mei 2022",
+    "date": "2022-05-02T00:00:00.000+07:00",
+    "desc": "Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "3 Mei 2022",
+    "date": "2022-05-03T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "16 Mei 2022",
+    "date": "2022-05-16T00:00:00.000+07:00",
+    "desc": "Hari Waisak"
+  },
+  {
+    "tanggal": "26 Mei 2022",
+    "date": "2022-05-26T00:00:00.000+07:00",
+    "desc": "Kenaikan Isa Almasih"
+  },
+  {
+    "tanggal": "1 Juni 2022",
+    "date": "2022-06-01T00:00:00.000+07:00",
+    "desc": "Hari Lahir Pancasila"
+  },
+  {
+    "tanggal": "10 Juli 2022",
+    "date": "2022-07-10T00:00:00.000+07:00",
+    "desc": "Idul Adha"
+  },
+  {
+    "tanggal": "30 Juli 2022",
+    "date": "2022-07-30T00:00:00.000+07:00",
+    "desc": "Tahun Baru Islam"
+  },
+  {
+    "tanggal": "17 Agustus 2022",
+    "date": "2022-08-17T00:00:00.000+07:00",
+    "desc": "Hari Kemerdekaan"
+  },
+  {
+    "tanggal": "8 Oktober 2022",
+    "date": "2022-10-08T00:00:00.000+07:00",
+    "desc": "Maulid Nabi Muhammad SAW"
+  },
+  {
+    "tanggal": "25 Desember 2022",
+    "date": "2022-12-25T00:00:00.000+07:00",
+    "desc": "Hari Natal"
+  }
+]

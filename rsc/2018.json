@@ -1,0 +1,127 @@
+[
+  {
+    "tanggal": "1 Januari 2018",
+    "date": "2018-01-01T00:00:00.000+07:00",
+    "desc": "Tahun Baru Masehi"
+  },
+  {
+    "tanggal": "16 Februari 2018",
+    "date": "2018-02-16T00:00:00.000+07:00",
+    "desc": "Tahun Baru Imlek"
+  },
+  {
+    "tanggal": "17 Maret 2018",
+    "date": "2018-03-17T00:00:00.000+07:00",
+    "desc": "Hari Suci Nyepi"
+  },
+  {
+    "tanggal": "30 Maret 2018",
+    "date": "2018-03-30T00:00:00.000+07:00",
+    "desc": "Jumat Agung"
+  },
+  {
+    "tanggal": "14 April 2018",
+    "date": "2018-04-14T00:00:00.000+07:00",
+    "desc": "Isra Mi'raj"
+  },
+  {
+    "tanggal": "1 Mei 2018",
+    "date": "2018-05-01T00:00:00.000+07:00",
+    "desc": "Hari Buruh"
+  },
+  {
+    "tanggal": "10 Mei 2018",
+    "date": "2018-05-10T00:00:00.000+07:00",
+    "desc": "Kenaikan Isa Almasih"
+  },
+  {
+    "tanggal": "29 Mei 2018",
+    "date": "2018-05-29T00:00:00.000+07:00",
+    "desc": "Hari Waisak"
+  },
+  {
+    "tanggal": "1 Juni 2018",
+    "date": "2018-06-01T00:00:00.000+07:00",
+    "desc": "Hari Lahir Pancasila"
+  },
+  {
+    "tanggal": "11 Juni to 14 Juni 2018",
+    "date": "2018-06-11T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "11 Juni to 14 Juni 2018",
+    "date": "2018-06-12T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "11 Juni to 14 Juni 2018",
+    "date": "2018-06-13T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "11 Juni to 14 Juni 2018",
+    "date": "2018-06-14T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "15 Juni to 16 Juni 2018",
+    "date": "2018-06-15T00:00:00.000+07:00",
+    "desc": "Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "15 Juni to 16 Juni 2018",
+    "date": "2018-06-16T00:00:00.000+07:00",
+    "desc": "Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "18 Juni to 20 Juni 2018",
+    "date": "2018-06-18T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "18 Juni to 20 Juni 2018",
+    "date": "2018-06-19T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "18 Juni to 20 Juni 2018",
+    "date": "2018-06-20T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "27 Juni 2018",
+    "date": "2018-06-27T00:00:00.000+07:00",
+    "desc": "Hari Pencoblosan Pilkada Serentak"
+  },
+  {
+    "tanggal": "17 Agustus 2018",
+    "date": "2018-08-17T00:00:00.000+07:00",
+    "desc": "Hari Kemerdekaan"
+  },
+  {
+    "tanggal": "22 Agustus 2018",
+    "date": "2018-08-22T00:00:00.000+07:00",
+    "desc": "Idul Adha"
+  },
+  {
+    "tanggal": "11 September 2018",
+    "date": "2018-09-11T00:00:00.000+07:00",
+    "desc": "Tahun Baru Islam"
+  },
+  {
+    "tanggal": "20 November 2018",
+    "date": "2018-11-20T00:00:00.000+07:00",
+    "desc": "Maulid Nabi Muhammad SAW"
+  },
+  {
+    "tanggal": "24 Desember 2018",
+    "date": "2018-12-24T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Hari Natal"
+  },
+  {
+    "tanggal": "25 Desember 2018",
+    "date": "2018-12-25T00:00:00.000+07:00",
+    "desc": "Hari Natal"
+  }
+]

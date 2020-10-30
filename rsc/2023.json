@@ -1,0 +1,82 @@
+[
+  {
+    "tanggal": "1 Januari 2023",
+    "date": "2023-01-01T00:00:00.000+07:00",
+    "desc": "Tahun Baru Masehi"
+  },
+  {
+    "tanggal": "22 Januari 2023",
+    "date": "2023-01-22T00:00:00.000+07:00",
+    "desc": "Tahun Baru Imlek"
+  },
+  {
+    "tanggal": "18 Februari 2023",
+    "date": "2023-02-18T00:00:00.000+07:00",
+    "desc": "Isra Mi'raj"
+  },
+  {
+    "tanggal": "22 Maret 2023",
+    "date": "2023-03-22T00:00:00.000+07:00",
+    "desc": "Hari Suci Nyepi"
+  },
+  {
+    "tanggal": "7 April 2023",
+    "date": "2023-04-07T00:00:00.000+07:00",
+    "desc": "Jumat Agung"
+  },
+  {
+    "tanggal": "22 April 2023",
+    "date": "2023-04-22T00:00:00.000+07:00",
+    "desc": "Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "23 April 2023",
+    "date": "2023-04-23T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "1 Mei 2023",
+    "date": "2023-05-01T00:00:00.000+07:00",
+    "desc": "Hari Buruh"
+  },
+  {
+    "tanggal": "6 Mei 2023",
+    "date": "2023-05-06T00:00:00.000+07:00",
+    "desc": "Hari Waisak"
+  },
+  {
+    "tanggal": "18 Mei 2023",
+    "date": "2023-05-18T00:00:00.000+07:00",
+    "desc": "Kenaikan Isa Almasih"
+  },
+  {
+    "tanggal": "1 Juni 2023",
+    "date": "2023-06-01T00:00:00.000+07:00",
+    "desc": "Hari Lahir Pancasila"
+  },
+  {
+    "tanggal": "29 Juni 2023",
+    "date": "2023-06-29T00:00:00.000+07:00",
+    "desc": "Idul Adha"
+  },
+  {
+    "tanggal": "19 Juli 2023",
+    "date": "2023-07-19T00:00:00.000+07:00",
+    "desc": "Tahun Baru Islam"
+  },
+  {
+    "tanggal": "17 Agustus 2023",
+    "date": "2023-08-17T00:00:00.000+07:00",
+    "desc": "Hari Kemerdekaan"
+  },
+  {
+    "tanggal": "27 September 2023",
+    "date": "2023-09-27T00:00:00.000+07:00",
+    "desc": "Maulid Nabi Muhammad SAW"
+  },
+  {
+    "tanggal": "25 Desember 2023",
+    "date": "2023-12-25T00:00:00.000+07:00",
+    "desc": "Hari Natal"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "tanggal": "1 Januari 2020",
+    "date": "2020-01-01T00:00:00.000+07:00",
+    "desc": "Tahun Baru Masehi"
+  },
+  {
+    "tanggal": "25 Januari 2020",
+    "date": "2020-01-25T00:00:00.000+07:00",
+    "desc": "Tahun Baru Imlek"
+  },
+  {
+    "tanggal": "22 Maret 2020",
+    "date": "2020-03-22T00:00:00.000+07:00",
+    "desc": "Isra Mi'raj"
+  },
+  {
+    "tanggal": "25 Maret 2020",
+    "date": "2020-03-25T00:00:00.000+07:00",
+    "desc": "Hari Suci Nyepi"
+  },
+  {
+    "tanggal": "10 April 2020",
+    "date": "2020-04-10T00:00:00.000+07:00",
+    "desc": "Jumat Agung"
+  },
+  {
+    "tanggal": "1 Mei 2020",
+    "date": "2020-05-01T00:00:00.000+07:00",
+    "desc": "Hari Buruh"
+  },
+  {
+    "tanggal": "7 Mei 2020",
+    "date": "2020-05-07T00:00:00.000+07:00",
+    "desc": "Hari Waisak"
+  },
+  {
+    "tanggal": "21 Mei 2020",
+    "date": "2020-05-21T00:00:00.000+07:00",
+    "desc": "Kenaikan Isa Almasih"
+  },
+  {
+    "tanggal": "22 Mei 2020",
+    "date": "2020-05-22T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Kenaikan Isa Almasih"
+  },
+  {
+    "tanggal": "24 Mei to 25 Mei 2020",
+    "date": "2020-05-24T00:00:00.000+07:00",
+    "desc": "Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "24 Mei to 25 Mei 2020",
+    "date": "2020-05-25T00:00:00.000+07:00",
+    "desc": "Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "1 Juni 2020",
+    "date": "2020-06-01T00:00:00.000+07:00",
+    "desc": "Hari Lahir Pancasila"
+  },
+  {
+    "tanggal": "31 Juli 2020",
+    "date": "2020-07-31T00:00:00.000+07:00",
+    "desc": "Idul Adha"
+  },
+  {
+    "tanggal": "17 Agustus 2020",
+    "date": "2020-08-17T00:00:00.000+07:00",
+    "desc": "Hari Kemerdekaan"
+  },
+  {
+    "tanggal": "20 Agustus 2020",
+    "date": "2020-08-20T00:00:00.000+07:00",
+    "desc": "Tahun Baru Islam"
+  },
+  {
+    "tanggal": "21 Agustus 2020",
+    "date": "2020-08-21T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Tahun Baru Islam"
+  },
+  {
+    "tanggal": "28 Oktober 2020",
+    "date": "2020-10-28T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Maulid Nabi Muhammad SAW"
+  },
+  {
+    "tanggal": "29 Oktober 2020",
+    "date": "2020-10-29T00:00:00.000+07:00",
+    "desc": "Maulid Nabi Muhammad SAW"
+  },
+  {
+    "tanggal": "30 Oktober 2020",
+    "date": "2020-10-30T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Maulid Nabi Muhammad SAW"
+  },
+  {
+    "tanggal": "24 Desember 2020",
+    "date": "2020-12-24T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Hari Natal"
+  },
+  {
+    "tanggal": "25 Desember 2020",
+    "date": "2020-12-25T00:00:00.000+07:00",
+    "desc": "Hari Natal"
+  },
+  {
+    "tanggal": "28 Desember to 31 Desember 2020",
+    "date": "2020-12-28T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Hari Natal"
+  },
+  {
+    "tanggal": "28 Desember to 31 Desember 2020",
+    "date": "2020-12-29T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Hari Natal"
+  },
+  {
+    "tanggal": "28 Desember to 31 Desember 2020",
+    "date": "2020-12-30T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Hari Natal"
+  },
+  {
+    "tanggal": "28 Desember to 31 Desember 2020",
+    "date": "2020-12-31T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Hari Natal"
+  }
+]

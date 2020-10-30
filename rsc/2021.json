@@ -1,0 +1,117 @@
+[
+  {
+    "tanggal": "1 Januari 2021",
+    "date": "2021-01-01T00:00:00.000+07:00",
+    "desc": "Tahun Baru Masehi"
+  },
+  {
+    "tanggal": "12 Februari 2021",
+    "date": "2021-02-12T00:00:00.000+07:00",
+    "desc": "Tahun Baru Imlek"
+  },
+  {
+    "tanggal": "11 Maret 2021",
+    "date": "2021-03-11T00:00:00.000+07:00",
+    "desc": "Isra Mi'raj"
+  },
+  {
+    "tanggal": "12 Maret 2021",
+    "date": "2021-03-12T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Isra Mi'raj"
+  },
+  {
+    "tanggal": "14 Maret 2021",
+    "date": "2021-03-14T00:00:00.000+07:00",
+    "desc": "Hari Suci Nyepi"
+  },
+  {
+    "tanggal": "2 April 2021",
+    "date": "2021-04-02T00:00:00.000+07:00",
+    "desc": "Jumat Agung"
+  },
+  {
+    "tanggal": "1 Mei 2021",
+    "date": "2021-05-01T00:00:00.000+07:00",
+    "desc": "Hari Buruh"
+  },
+  {
+    "tanggal": "12 Mei 2021",
+    "date": "2021-05-12T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "13 Mei 2021",
+    "date": "2021-05-13T00:00:00.000+07:00",
+    "desc": "Kenaikan Isa Almasih"
+  },
+  {
+    "tanggal": "13 Mei to 14 Mei 2021",
+    "date": "2021-05-13T00:00:00.000+07:00",
+    "desc": "Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "13 Mei to 14 Mei 2021",
+    "date": "2021-05-14T00:00:00.000+07:00",
+    "desc": "Hari Raya Idul Fitri"
+  },
+  {
+    "tanggal": "17 Mei to 19 Mei 2021",
+    "date": "2021-05-17T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "17 Mei to 19 Mei 2021",
+    "date": "2021-05-18T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "17 Mei to 19 Mei 2021",
+    "date": "2021-05-19T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Lebaran"
+  },
+  {
+    "tanggal": "26 Mei 2021",
+    "date": "2021-05-26T00:00:00.000+07:00",
+    "desc": "Hari Waisak"
+  },
+  {
+    "tanggal": "1 Juni 2021",
+    "date": "2021-06-01T00:00:00.000+07:00",
+    "desc": "Hari Lahir Pancasila"
+  },
+  {
+    "tanggal": "20 Juli 2021",
+    "date": "2021-07-20T00:00:00.000+07:00",
+    "desc": "Idul Adha"
+  },
+  {
+    "tanggal": "10 Agustus 2021",
+    "date": "2021-08-10T00:00:00.000+07:00",
+    "desc": "Tahun Baru Islam"
+  },
+  {
+    "tanggal": "17 Agustus 2021",
+    "date": "2021-08-17T00:00:00.000+07:00",
+    "desc": "Hari Kemerdekaan"
+  },
+  {
+    "tanggal": "19 Oktober 2021",
+    "date": "2021-10-19T00:00:00.000+07:00",
+    "desc": "Maulid Nabi Muhammad SAW"
+  },
+  {
+    "tanggal": "24 Desember 2021",
+    "date": "2021-12-24T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Hari Natal"
+  },
+  {
+    "tanggal": "25 Desember 2021",
+    "date": "2021-12-25T00:00:00.000+07:00",
+    "desc": "Hari Natal"
+  },
+  {
+    "tanggal": "27 Desember 2021",
+    "date": "2021-12-27T00:00:00.000+07:00",
+    "desc": "Cuti Bersama Hari Natal"
+  }
+]
